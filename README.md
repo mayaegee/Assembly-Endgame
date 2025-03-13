@@ -1,3 +1,6 @@
+This project is deployed using Netlify at the following link:
+https://67d2a097fa8b3b8749d2cab9--assembly-endgame-maya.netlify.app/
+
 # Getting Started
 Install the dependencies and run the project
 ```
